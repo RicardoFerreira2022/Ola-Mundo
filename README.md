@@ -1,5 +1,5 @@
 # Olá, Mundo!
- Primeiro Repositorio do Curso de Git e Git Hub
+ Primeiro Repositório do Curso de Git e Git Hub (fiz uma correção gramatical em Repositório).
 
 Repositório Criado durante uma aula ao vivo!
 
@@ -13,3 +13,5 @@ Na quarta tentativa foi acrescentado um pouco mais de resiliência...
 Não sei o que houve mas a quarta tentativa não aconteceu...
 
 Na sexta tentativa, observei que não tinha feito o branch...na verdade, uma pequena correção, fetch origin.
+
+Na sétima tentativa, tive o sentimento que estava de fato assimilando o github.
