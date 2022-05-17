@@ -5,4 +5,4 @@ Repositório Criado durante uma aula ao vivo!
 
 Minha segunda modificação para entender como realizar um commit.
 
-Na terceira tentativa de acerto e erro, vou acertando!
+Na terceira tentativa de acerto e erro, vou acreditando e acertando!
