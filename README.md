@@ -3,4 +3,4 @@
 
 Repositório Criado durante uma aula ao vivo!
 
-Minha segunda modificação para entender como realizar um commit.
+Minha segunda modificação do código para entender como realizar um commit.
